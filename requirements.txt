@@ -1,0 +1,6 @@
+google-api-python-client
+oauth2client
+google.auth
+grpcio == 1.46.3
+google-cloud-monitoring
+
